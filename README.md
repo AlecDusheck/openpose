@@ -1,3 +1,5 @@
+## This branch contains the caffe models!
+
 <div align="center">
     <img src=".github/Logo_main_black.png" width="300">
 </div>
